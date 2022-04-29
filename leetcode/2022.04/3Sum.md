@@ -1,14 +1,12 @@
-## LeetCode 15. 3Sum
+## [LeetCode 15. 3Sum](https://leetcode.com/problems/3sum/)
 
-https://leetcode.com/problems/3sum/
+---
 
-------
-
-> Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
->
+> Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` 
+> such that `i != j`, `i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 > Notice that the solution set must not contain duplicate triplets.
 
-Solution:
+#### Solution:
 
 Unlike the TwoSum problem, the problem requires a sorted array. Because the array is ascending, we can trim a lot of redundant operations, such as starting with a positive number(three positive numbers cannot add up to zero), and ignoring adjacent identical starting points (at most it will yield duplicates).
 
