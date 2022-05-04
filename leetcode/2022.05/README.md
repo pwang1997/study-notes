@@ -6,3 +6,5 @@
 + [905. Sort Array By Parity](https://github.com/pwang1997/blog/blob/main/leetcode/2022.05/Sort-Array-By-Parity.md)
 + [279. Perfect Squares](https://github.com/pwang1997/blog/blob/main/leetcode/2022.05/Perfect-Squares.md)
 + [322. Coin Change](https://github.com/pwang1997/blog/blob/main/leetcode/2022.05/Coin-Change.md)
++ [581. Shortest Unsorted Continuous Subarray](https://github.com/pwang1997/blog/blob/main/leetcode/2022.05/Shortest-Unsorted-Continuous-Subarray.md)
++ [1679. Max Number of K-Sum Pairs](https://github.com/pwang1997/blog/blob/main/leetcode/2022.05/Max-Number-of-K-Sum-Pairs.md)
