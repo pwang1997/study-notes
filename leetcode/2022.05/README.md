@@ -14,3 +14,7 @@
 + [456. 132 Pattern](./132-Pattern.md)
 + [14. Longest Common Prefix](./Longest-Common-Prefix.md)
 + [17. Letter Combinations of a Phone Number](./Letter-Combinations-of-a-Phone-Number.md)
++ [19. Remove Nth Node From End of List](./Remove-Nth-Node-From-End-of-List.md)
++ [341. Flatten Nested List Iterator](./Flatten-Nested-List-Iterator.md)
++ [22. Generate Parentheses](./Generate-Parentheses.md)
++ [23. Merge k Sorted Lists](./Merge-k-Sorted-Lists.md)
