@@ -18,3 +18,8 @@
 + [341. Flatten Nested List Iterator](./Flatten-Nested-List-Iterator.md)
 + [22. Generate Parentheses](./Generate-Parentheses.md)
 + [23. Merge k Sorted Lists](./Merge-k-Sorted-Lists.md)
++ [26. Remove Duplicates from Sorted Array](./Remove-Duplicates-from-Sorted-Array.md)
++ [29. Divide Two Integers](./Divide-Two-Integers.md)
++ [34. Find First and Last Position of Element in Sorted Array](./Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
++ [36. Valid Sudoku](./Valid-Sudoku.md)
++ [37. Sudoku Solver](./Sudoku-Solver.md)
