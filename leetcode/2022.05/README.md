@@ -24,3 +24,8 @@
 + [36. Valid Sudoku](./Valid-Sudoku.md)
 + [37. Sudoku Solver](./Sudoku-Solver.md)
 + [216. Combination Sum III](./Combination-Sum-III.md)
++ [38. Count and Say](./Count-and-Say.md)
++ [42. Trapping Rain Water](./Trapping-Rain-Water.md)
++ [44. Wildcard Matching](./Wildcard-Matchin.md)
++ [1641. Count Sorted Vowel Strings](./Count-Sorted-Vowel-Strings.md)
++ [47. Permutations II](./Permutations-II.md)
