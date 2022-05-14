@@ -29,3 +29,6 @@
 + [44. Wildcard Matching](./Wildcard-Matchin.md)
 + [1641. Count Sorted Vowel Strings](./Count-Sorted-Vowel-Strings.md)
 + [47. Permutations II](./Permutations-II.md)
++ [45. Jump Game II](./Jump-Game-II.md)
++ [46. Permutations](./Permutations.md)
++ [117. Populating Next Right Pointers in Each Node II](./Populating-Next-Right-Pointers-in-Each-Node-II.md)
