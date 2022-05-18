@@ -32,3 +32,6 @@
 + [45. Jump Game II](./Jump-Game-II.md)
 + [46. Permutations](./Permutations.md)
 + [117. Populating Next Right Pointers in Each Node II](./Populating-Next-Right-Pointers-in-Each-Node-II.md)
++ [73. Set Matrix Zeroes](./Set-Matrix-Zeroes.md)
++ [146. LRU Cache](./LRU-Cache.md)
++ [208. Implement Trie (Prefix Tree)](./Implement-Trie.md)
