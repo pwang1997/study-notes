@@ -2,3 +2,7 @@
 + [242. Valid Anagram](./Valid-Anagram.md)
 + [49. Group Anagrams](./Group-Anagrams.md)
 + [79. Word Search](./Word-Search.md)
++ [189. Rotate Array](./Rotate-Array.md)
++ [74. Search a 2D Matrix](./Search-a-2D-Matrix.md)
++ [139. Word Break](./Word-Break.md)
++ [48.Rotate Image](./Rotate-Image.md)
