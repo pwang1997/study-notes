@@ -1,0 +1,12 @@
+## Zookeeper
+- Zookeeper manages brokers(keeps a list of them)
+- helps in performing leader election for partitions
+- sends notifications to Kafka in case of changes(e.g. new topics, broker dies, broker comes up, delete topics, etc...)
+- Kafka 2.x can't work without Zookeeper
+- Kafka 3.x can work without Zookeper(KIP-500) - using **Kafka Raft** instead
+- Kafka 4.x will not have Zookeeper
+- Zookeeper by design operates with an odd number of servers.
+- has a leader(writes), the rest of the servers are followers(reads).
+- does NOT store consumer offsets with Kafka > v0.10
+- **Zookeeper is less secure than Kafka, and therefore, Zookeeper ports should only be opened to allow traffic from Kafka brokers, and not Kafka clients.**
+- **Never ever use Zookeeper as a configuration in your Kafka clients, and other programs that connect to Kafka.**

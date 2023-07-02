@@ -1,0 +1,1 @@
+https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
